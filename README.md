@@ -24,7 +24,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/codeclannigeria-hacktoberfest.git
+git clone https://github.com/tayormi/codeclannigeria-hacktoberfest.git
 ```
 
 * Create a branch
