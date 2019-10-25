@@ -1,7 +1,7 @@
-// LANGUAGE: Python 
-// ENV: Python3
-// AUTHOR: Abdul Olaitan 
-// GITHUB: https://github.com/AbdulConsole
+# LANGUAGE: Python 
+# ENV: Python3
+# AUTHOR: Abdul Olaitan Console
+# GITHUB: https://github.com/AbdulConsole
 
 def hello():
    print("Hello World")
