@@ -30,3 +30,9 @@ jonddon-branch
 - Place: Abeokuta, Ogun, Nigeria
 -Bio: I love machine learning and horror movies
 -Github: [Github link](https://github.com/BobadeKenny)
+
+======
+#### Name: [Maryam Musa](https://github.com/mhariham)
+- Place: Minna, Niger State Nigeria
+- Bio: Love Web and Movies
+- GitHub: [GitHub link](https://github.com/mhahriham)
