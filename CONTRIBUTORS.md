@@ -63,3 +63,11 @@ jonddon-branch
 - Place : Lagos State, Nigeria
 - Bio : I'm Ekanem David. Software Engineer
 - Github : [dueka](https://github.com/dueka)
+
+=======
+
+#### Name: [Richard Bankole Saseun](https://github.com/richardsaseun14)
+
+- Place : Lagos State, Nigeria
+- Bio : A UI, UX and Frontend Developer who loves to have fun
+- Github : [richardsaseun14](https://github.com/richardsaseun14)
