@@ -71,3 +71,10 @@ jonddon-branch
 - Place : Lagos State, Nigeria
 - Bio : A UI, UX and Frontend Developer who loves to have fun
 - Github : [richardsaseun14](https://github.com/richardsaseun14)
+
+#### Name: [Ene-une Reuben Ochedi](https://github.com/RubyCodes14)
+
+- Place: Lokoja, Kogi State, Nigeria
+- Bio: A CS student, loves coding (in python particular), tech enthusiast...
+- GitHub: [RubyCodes14](https://github.com/RubyCodes14)
+
