@@ -78,3 +78,9 @@ jonddon-branch
 - Bio: A CS student, loves coding (in python particular), tech enthusiast...
 - GitHub: [RubyCodes14](https://github.com/RubyCodes14)
 
+### Name: [Shoyemi Samuel](https://github.com/ShowBaba)
+
+- Place: Ejigbo, Lagos, Nigeria
+- Bio: CS undergrad @FUTA, I code Python and Java.
+- Github: [ShowBaba](https://github.com/ShowBaba)
+
