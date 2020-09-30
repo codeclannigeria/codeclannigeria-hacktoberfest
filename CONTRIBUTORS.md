@@ -84,3 +84,9 @@ jonddon-branch
 - Bio: CS undergrad @FUTA, I code Python and Java.
 - Github: [ShowBaba](https://github.com/ShowBaba)
 
+
+### Name: [Anushka Korakana](https://github.com/Anushkakorakana)
+
+- Place: Mumbai,India
+- Bio: CS undergrad @KIIT, I love designing.
+- Github: [AnushkaKorakana](https://github.com/Anushkakorakana)
