@@ -83,6 +83,11 @@ jonddon-branch
 - Place: Ejigbo, Lagos, Nigeria
 - Bio: CS undergrad @FUTA, I code Python and Java.
 - Github: [ShowBaba](https://github.com/ShowBaba)
+### Name: [Anant Singh](https://github.com/AnantSingh08)
+
+- Place: Agra,India
+- Bio: CS undergrad @KIIT, I code Python,Java,C,C++.
+- Github: (https://github.com/AnantSingh08)
 
 
 ### Name: [Anushka Korakana](https://github.com/Anushkakorakana)
