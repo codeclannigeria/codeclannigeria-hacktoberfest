@@ -84,3 +84,8 @@ jonddon-branch
 - Bio: CS undergrad @FUTA, I code Python and Java.
 - Github: [ShowBaba](https://github.com/ShowBaba)
 
+### Name: [Samarpita Saha](github.com/samarpitasaha)
+
+- Place: Kolkata, India
+- Bio: CS undergrad @KIIT, I love designing
+- Github: [Samarpita Saha](github.com/samarpitasaha)
