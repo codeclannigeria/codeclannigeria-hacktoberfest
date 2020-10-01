@@ -1,6 +1,6 @@
 //LANGUAGE: JAVASCRIPT
-//Env : Nodejs
-//AUTHOR: KAREN EFEREYAN
+//Env : Vanilla js
+//AUTHOR: Egbaidomeh James
 //GITHUB: https://github.com/tayormi
 
-console.log("Hello World!!");
+Alert("Hello World!!");
