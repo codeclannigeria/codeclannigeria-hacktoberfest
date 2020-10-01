@@ -103,3 +103,9 @@ jonddon-branch
 - Place: Mumbai,India
 - Bio: CS undergrad @KIIT, I love designing.
 - Github: [AnushkaKorakana](https://github.com/Anushkakorakana)
+
+
+#### Name: [Ademola John Olakunle](https://github.com/Crownedprinz)
+- Place: Lagos, Nigeria
+- Bio:  A backend developer that majors in C# and NodeJs?
+- GitHub: [Crownedprinz](https://github.com/Crownedprinz)
