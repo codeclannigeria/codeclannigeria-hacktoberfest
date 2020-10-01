@@ -109,3 +109,10 @@ jonddon-branch
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in C# and NodeJs?
 - GitHub: [Crownedprinz](https://github.com/Crownedprinz)
+
+
+#### Name: [Samarpita Saha](https://github.com/samarpitasaha)
+- Place: Kolkata,WB,India
+- Bio: CS undergrad @KIIT
+- GitHub: [Samarpita Saha](https://github.com/samarpitasaha)
+
