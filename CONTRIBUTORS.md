@@ -114,5 +114,5 @@ jonddon-branch
 #### Name: [Samarpita Saha](https://github.com/samarpitasaha)
 - Place: Kolkata,WB,India
 - Bio: CS undergrad @KIIT
-- GitHub: [Samarpita Saha](https://github.com/samarpitasaha)
+- GitHub: [SamarpitaSaha](https://github.com/samarpitasaha)
 
