@@ -109,3 +109,8 @@ jonddon-branch
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in C# and NodeJs?
 - GitHub: [Crownedprinz](https://github.com/Crownedprinz)
+
+#### Name: [Olawale Esan Elijah](https://github.com/elijahwale)
+- Place: Lagos, Nigeria
+- Bio:  A backend developer that majors in PHP and LARAVEL?
+- GitHub: [Elijahwale](https://github.com/elijahwale)
