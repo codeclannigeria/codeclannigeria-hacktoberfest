@@ -114,3 +114,8 @@ jonddon-branch
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in PHP and LARAVEL?
 - GitHub: [Elijahwale](https://github.com/elijahwale)
+
+#### Name: [Adeleke Isaiah](https://github.com/Caculuz-cinks)
+- Place: Lagos, Nigeria
+- Bio: A mobile app developer.
+- GitHub: [Caculuz-cinks](https://github.com/Caculuz-cinks)
