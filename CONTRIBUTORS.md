@@ -114,3 +114,8 @@ jonddon-branch
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in PHP and LARAVEL?
 - GitHub: [Elijahwale](https://github.com/elijahwale)
+
+#### Name: [Joshua Ogbonna] (https://github.com/Joshua-Ogbonna)
+- Place: Owerri, Imo State, Nigeria
+- Bio: Frontend Developer (Html, Css, JavaScript, Vuejs)
+- Github: [Joshua-Ogbonna] (https://github.com/Joshua-Ogbonna)
