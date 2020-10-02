@@ -114,3 +114,8 @@ jonddon-branch
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in PHP and LARAVEL?
 - GitHub: [Elijahwale](https://github.com/elijahwale)
+
+#### Name: [Amit Maurya](https://github.com/amitmaurya7374)
+- Place: Faridabad, India
+- Bio: Flutter Developer
+- Github: [Amit Maurya](https://github.com/amitmaurya7374)
