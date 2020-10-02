@@ -1,3 +1,10 @@
+#### Name: [Abhishek Amrute](https://github.com/ABHISHEK-AMRUTE)
+
+- Place:M.P. Indian
+- Bio: Passionate developer
+- GitHub: [GitHub link](https://github.com/ABHISHEK-AMRUTE)
+
+
 #### Name: [Ajiboye Temitope](https://github.com/tayormi)
 
 - Place: Lagos, Lagos, Nigeria
