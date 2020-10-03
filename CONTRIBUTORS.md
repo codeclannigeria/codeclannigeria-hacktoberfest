@@ -122,7 +122,9 @@ jonddon-branch
 - Bio:  A backend developer that majors in PHP and LARAVEL?
 - GitHub: [Elijahwale](https://github.com/elijahwale)
 
-#### Name: [Adeleke Isaiah](https://github.com/Caculuz-cinks)
-- Place: Lagos, Nigeria
-- Bio: A mobile app developer.
-- GitHub: [Caculuz-cinks](https://github.com/Caculuz-cinks)
+
+#### Name: [Amit Maurya](https://github.com/amitmaurya7374)
+- Place: Faridabad, India
+- Bio: Flutter Developer
+- Github: [Amit Maurya](https://github.com/amitmaurya7374)
+
