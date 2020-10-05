@@ -128,3 +128,8 @@ jonddon-branch
 - Bio: Flutter Developer
 - Github: [Amit Maurya](https://github.com/amitmaurya7374)
 
+### Name: [Samarpita Saha](github.com/samarpitasaha)
+
+- Place: Kolkata, India
+- Bio: CS undergrad @KIIT, I love designing
+- Github: [Samarpita Saha](github.com/samarpitasaha)
