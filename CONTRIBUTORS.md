@@ -133,3 +133,9 @@ jonddon-branch
 - Place: Kolkata, India
 - Bio: CS undergrad @KIIT, I love designing
 - Github: [Samarpita Saha](github.com/samarpitasaha)
+
+### Name: [Joshua Ogbonna](github.com/Joshua-Ogbonna)
+
+- Place: Owerri, Imo State, Nigeria.
+- Bio: I am a frontend developer.
+- Github: [Joshua-Ogbonna](github.com/Joshua-Ogbonna)
