@@ -133,3 +133,9 @@ jonddon-branch
 - Place: Kolkata, India
 - Bio: CS undergrad @KIIT, I love designing
 - Github: [Samarpita Saha](github.com/samarpitasaha)
+
+
+### Name: [Meet Patel] (github.com/meetxpress)
+- Place: Vadodara, Gujarat, India
+- Bio: You can visit my website to know more about me. (http://meetpatel.live)
+- Github: [Meet Patel](github.com/meetxpress)
