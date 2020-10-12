@@ -23,5 +23,5 @@ Charotar University of Science and Technology (CHARUSAT)
 
 ### Profile Link
 
-[@meetxpress](https://github.com/meetxpress)
-[www.meetpatel.live](http://meetpatel.live/)
+- [@meetxpress](https://github.com/meetxpress)
+- [www.meetpatel.live](http://meetpatel.live/)
