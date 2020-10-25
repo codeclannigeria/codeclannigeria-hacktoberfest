@@ -11,6 +11,12 @@
 - Bio: Loves to code in dart and flutter
 - GitHub: [GitHub link](https://github.com/tayormi)
 
+#### Name: [Aswin gopinathan](https://github.com/infiniteoverflow)
+
+- Place: Bangalore, India
+- Bio: Your Friendly neighbourhood developer
+- GitHub: [GitHub link](https://github.com/infiniteoverflow)
+
 jonddon-branch
 
 #### Name: [Varun Bhutani](https://github.com/jonddon)
