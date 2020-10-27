@@ -133,3 +133,8 @@ jonddon-branch
 - Place: Kolkata, India
 - Bio: CS undergrad @KIIT, I love designing
 - Github: [Samarpita Saha](github.com/samarpitasaha)
+
+#### Name: [Abhishek Nandan](https://github.com/nandanabhishek)
+- Place: Patna, Bihar, India
+- Bio: Web Developer
+- GitHub: [nandanabhishek](https://github.com/nandanabhishek)
