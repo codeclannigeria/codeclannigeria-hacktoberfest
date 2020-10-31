@@ -144,3 +144,10 @@ jonddon-branch
 - Place: Patna, Bihar, India
 - Bio: Web Developer
 - GitHub: [nandanabhishek](https://github.com/nandanabhishek)
+
+
+#### Name: [Mukaila Semiu](https://github.com/Semiteagain)
+
+- Place: Ibadan, Oyo, Nigeria
+- Bio: code with Html to React.js
+- GitHub: [GitHub link](https://github.com/Semiteagain)
