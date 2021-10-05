@@ -151,3 +151,10 @@ jonddon-branch
 - Place: Ibadan, Oyo, Nigeria
 - Bio: code with Html to React.js
 - GitHub: [GitHub link](https://github.com/Semiteagain)
+
+
+
+#### Name: [Bala Hantsi](https://github.com/bhantsi)
+- Place: Kano, Nigeria
+- Bio: Web Developer
+- GitHub: [bhantsi](https://github.com/bhantsi)
